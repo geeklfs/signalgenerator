@@ -1,5 +1,6 @@
 /// Test signal generator
 #include <signalgenerator.h>
+
 using namespace std;
 
 void plotvalue(const float& a)
